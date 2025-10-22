@@ -1,8 +1,6 @@
 # 👋 Hey There, I'm Fahim muntasir
 
-🌱 I'm a front-end web application developer I know the backend as well with node js. I am diligent about keeping up with the latest technology and trends. I always try to build robust and optimized web applications and leverage the latest technologies to deliver exceptional results.
-
-💼 Currently, I'm working as a freelance Front-End Developer, tackling a variety of challenges. These include integrating frontend components with APIs, performing code debugging, and refactoring existing code to enhance performance and user experience.
+🌱 Full-stack developer specializing in modern web technologies. Experienced in building responsive, scalable web applications with JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB.
 
 📫 Reach out to me:<br/>
 I'm open to collaboration and discussing exciting opportunities. Let's connect
